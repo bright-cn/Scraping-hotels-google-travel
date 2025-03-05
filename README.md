@@ -1,6 +1,6 @@
 # 从 Google Travel 抓取酒店信息
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/) 
+[![Promo](https://github.com/bright-cn/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/) 
 
 本指南讲解了如何使用 Selenium 方法或 Bright Data 的 API 来从 Google Travel 获取酒店列表、价格和酒店设施信息。
 
